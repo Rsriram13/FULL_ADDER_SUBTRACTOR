@@ -55,7 +55,7 @@ Borrow out = A'Bin + A'B + BBin
 ![output](image-1.png)
 ### Truth table
 ![output](image-2.png)
-**Output Timing Waveform**
+### Output Timing Waveform
 ![output](image-3.png)
 ## FULL SUBTRACTOR
 ### program
